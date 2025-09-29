@@ -1,4 +1,4 @@
-#👋 Hey, I'm Dancel – aka spicorn 👨‍💻
+# 👋 Hey, I'm Dancel – aka spicorn 👨‍💻
 
 # 💫 About Me:
 <br>💻 Passionate about building frontend websites and mobile apps with React, React Native, Next.js, TypeScript, and Supabase<br>🧠 Constantly learning & sharing what I learn<br>🛠️ Focused on performance, developer experience, and clean UI
